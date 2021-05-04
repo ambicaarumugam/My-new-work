@@ -1,12 +1,13 @@
-//simple Program
+public class MultiplyTwoNumbers {
 
-public static void main(String[] args)
-{
-system.out.println("the two number is");
-int first=10;
-int second=20;
-system.out.printin(first + "/n" + second);
-int sum=first + second;
-system.out.printin("the sum of two number is " + sum);
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
 }
 
