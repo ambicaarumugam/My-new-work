@@ -1,1 +1,13 @@
-date
+#simple Program
+class main()
+{
+public static void main()
+{
+system.out.println("the two number is");
+int first=10;
+int second=20;
+system.out.printin(first+ "/n" +second);
+int sum=first+second;
+system.out.printin("the sum of two number is "+sum);
+}
+}
